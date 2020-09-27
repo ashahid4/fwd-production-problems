@@ -28,3 +28,9 @@ ul{
   padding-bottom: 26px;
   list-style-type:disc;
 }
+figcaption{
+  padding-bottom: 20px;
+}
+p{
+  padding-bottom: 20px;
+}
