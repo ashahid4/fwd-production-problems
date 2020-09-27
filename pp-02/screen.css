@@ -11,4 +11,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles below */
 html{
   font-family: 'EB Garamond',Georgia,'Times New Roman',Times,Roman,serif;
+  font size: 1.25em; /* 20px/16px = 1.25em */
+  line-height: 1.2em; /* 24px/20px = 1.2em */
+  padding: 10px;
 }
