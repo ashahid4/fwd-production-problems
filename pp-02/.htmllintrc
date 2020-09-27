@@ -2,7 +2,7 @@
     // Stolley House Config, v. 2.0.0, 20200914
 
     // names of npm modules to load into htmllint
-    "plugins": [],
+    "plugins": [], 
 
     // Configuration options:
     "attr-bans": ["align", "background", "bgcolor", "border", "frameborder", "longdesc", "marginwidth", "marginheight", "scrolling", "style", "target", "width", "height", "onload", "onclick"], // ban deprecated/obsolete attributes
