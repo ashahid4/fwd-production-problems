@@ -4,14 +4,14 @@
   `x` as the variable inside the function, however.
 */
 
-x = 5;
+ x = 5;
 
 function double(num) {
-  x = num * 2;
+  num = x * 2;
   return x;
 }
 
-double(6);
+double (6); 
 console.log('The value of x is', x, '-- it should be 5.');
 
 /*
