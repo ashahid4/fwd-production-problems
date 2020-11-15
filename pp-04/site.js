@@ -8,11 +8,13 @@
 
 function double(num) {
   double (6);
+  if(isNaN(num)){
+    return 'NaN';
+  }
   num = x * 2;
   return x;
 }
-
-console.log('The value of x is', x, '-- it should be 5.');
+console.log('The value of x is',x, '-- it should be 5.');
 
 /*
   Step 2. Rewrite the JavaScript `double()` function above so that
